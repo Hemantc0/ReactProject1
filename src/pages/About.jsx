@@ -1,14 +1,10 @@
-function About() {
-  return (
-    <div className="page">
-      <h1>About Project</h1>
-
-      <p>
-        This To Do List App is built using React
-        and Vite.
-      </p>
-    </div>
-  );
+function About()
+{
+    return(
+        <div>
+            <h1>About us</h1>
+            <p>We are a team of passionate developers dedicated to creating amazing web applications.</p>
+        </div>
+    )
 }
-
 export default About;
