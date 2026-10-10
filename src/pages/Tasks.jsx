@@ -39,6 +39,6 @@ function Tasks() {
 
     </div>
   );
-}
+} 
 
 export default Tasks;
